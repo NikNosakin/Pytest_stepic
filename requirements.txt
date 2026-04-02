@@ -1,0 +1,15 @@
+""" 
+1. Чтобы создать этот файл автоматически, выполните команду:
+    pip freeze > requirements.txt
+2. Любой другой разработчик сможет создать свое виртуальное окружение и 
+установить точно такой же набор пакетов одной командой: 
+    pip install -r requirements.txt.
+"""
+
+exceptiongroup==1.3.1
+iniconfig==2.1.0
+packaging==26.0
+pluggy==1.5.0
+pytest==8.3.5
+tomli==2.4.1
+typing-extensions==4.13.2
